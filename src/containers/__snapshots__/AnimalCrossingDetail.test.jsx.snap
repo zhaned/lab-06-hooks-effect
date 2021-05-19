@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AC Details container gives a villager 1`] = `
+<ul
+  aria-label="villagers"
+>
+  <li>
+    <div>
+      <a
+        href="/undefined"
+      >
+        <img
+          style="height: 150px;"
+        />
+        <p />
+        <p />
+      </a>
+    </div>
+  </li>
+</ul>
+`;

@@ -4,7 +4,7 @@ import Villager from './Villager';
 
 
 const VillagerList = ({ villagers }) => (
-  //aria-labels attaches a label to anonymous HTML elements  
+  //aria-labels attaches a label to anonymous HTML elements
   <ul aria-label='villagers'>
     {
       villagers.map((villager) => (
@@ -13,6 +13,7 @@ const VillagerList = ({ villagers }) => (
             name={villager.name}
             quote={villager.quote}
             image={villager.image}
+            id={villager.id}
           />
         </li>
       ))

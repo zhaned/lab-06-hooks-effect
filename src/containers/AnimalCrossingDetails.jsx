@@ -1,17 +1,19 @@
 import React, { useState, useEffect } from 'react';
+import { useParams } from 'react-router';
 import VillagerList from '../components/villagers/VillagerList';
-import { fetchVillagers } from '../services/animalCrossingApi'
+import { fetchVillager } from '../services/animalCrossingApi'
 
 const AnimalCrossing = () => {
   const [ villager, setVillager ] = useState([]);
   const [ loading, setLoading ] = useState(true);
-
+  // const id = window.location.href.split("/").pop();
+  const params = useParams();
   useEffect(() => {
-    fetchVillagers()
+    fetchVillager(params.id)
       .then(setVillager)
       .finally(() => setLoading(false));
   },[]);
-  if (loading) return <h2>Wrangling Villagers...</h2>
+  if (loading) return <h2>Wrangling Villager...</h2>
   return (
     <div>
       <VillagerList villagers={villager} />

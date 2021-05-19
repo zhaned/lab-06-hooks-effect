@@ -4,6 +4,8 @@ import AnimalCrossing from './AnimalCrossing';
 import { rest } from 'msw';
 import { setupServer } from 'msw/node';
 import mockData from './villagers.json';
+import { MemoryRouter } from 'react-router-dom';
+
 
 const server = setupServer(
   rest.get('https://ac-vill.herokuapp.com/villagers', (req, res, ctx) => {
@@ -22,7 +24,11 @@ describe('AC container', () => {
   })
 
   it('gives a list of villagers', async () => {
-    render(<AnimalCrossing />)
+    render(
+    <MemoryRouter>
+      <AnimalCrossing />
+    </MemoryRouter>
+    )
 
     const unorderedList = await screen.findByRole('list', { name: 'villagers' });
     expect(unorderedList).toMatchSnapshot();
