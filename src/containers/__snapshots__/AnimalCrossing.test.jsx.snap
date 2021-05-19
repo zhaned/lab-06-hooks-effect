@@ -1,0 +1,483 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AC container gives a list of villagers 1`] = `
+<ul
+  aria-label="villagers"
+>
+  <li>
+    <div>
+      <a
+        href="/5f5fb4bbbfd05c2aed82e460"
+      >
+        <img
+          alt="Admiral"
+          src="https://vignette.wikia.nocookie.net/animalcrossing/images/e/ed/Admiral_NH.png/revision/latest?cb=20200802081138"
+          style="height: 150px;"
+        />
+        <p>
+          Admiral
+        </p>
+        <p>
+          Only quitters give up.
+        </p>
+      </a>
+    </div>
+  </li>
+  <li>
+    <div>
+      <a
+        href="/5f5fb4bbbfd05c2aed82e461"
+      >
+        <img
+          alt="Agent S"
+          src="https://vignette.wikia.nocookie.net/animalcrossing/images/a/a7/Agent_S_NH.png/revision/latest?cb=20200719092526"
+          style="height: 150px;"
+        />
+        <p>
+          Agent S
+        </p>
+        <p>
+          You gotta put the pedal to the metal!
+        </p>
+      </a>
+    </div>
+  </li>
+  <li>
+    <div>
+      <a
+        href="/5f5fb4bbbfd05c2aed82e462"
+      >
+        <img
+          alt="Agnes"
+          src="https://vignette.wikia.nocookie.net/animalcrossing/images/4/42/Agnes_NH.png/revision/latest?cb=20200804230432"
+          style="height: 150px;"
+        />
+        <p>
+          Agnes
+        </p>
+        <p>
+          You reap what you sow.
+        </p>
+      </a>
+    </div>
+  </li>
+  <li>
+    <div>
+      <a
+        href="/5f5fb4bbbfd05c2aed82e463"
+      >
+        <img
+          alt="Al"
+          src="https://vignette.wikia.nocookie.net/animalcrossing/images/c/c4/Al_NH.png/revision/latest?cb=20200802150354"
+          style="height: 150px;"
+        />
+        <p>
+          Al
+        </p>
+        <p>
+          Life is a buffet--Always go back for seconds.
+        </p>
+      </a>
+    </div>
+  </li>
+  <li>
+    <div>
+      <a
+        href="/5f5fb4bbbfd05c2aed82e464"
+      >
+        <img
+          alt="Alfonso"
+          src="https://vignette.wikia.nocookie.net/animalcrossing/images/e/e4/Alfonso_NH.png/revision/latest?cb=20200817164717"
+          style="height: 150px;"
+        />
+        <p>
+          Alfonso
+        </p>
+        <p>
+          Slow and steady wins the race.
+        </p>
+      </a>
+    </div>
+  </li>
+  <li>
+    <div>
+      <a
+        href="/5f5fb4bbbfd05c2aed82e465"
+      >
+        <img
+          alt="Alice"
+          src="https://vignette.wikia.nocookie.net/animalcrossing/images/e/e1/Alice_NH.png/revision/latest?cb=20200803181400"
+          style="height: 150px;"
+        />
+        <p>
+          Alice
+        </p>
+        <p>
+          Treat others as you would like to be treated.
+        </p>
+      </a>
+    </div>
+  </li>
+  <li>
+    <div>
+      <a
+        href="/5f5fb4bbbfd05c2aed82e46c"
+      >
+        <img
+          alt="Ankha"
+          src="https://vignette.wikia.nocookie.net/animalcrossing/images/5/56/Ankha_NH.png/revision/latest?cb=20200817172044"
+          style="height: 150px;"
+        />
+        <p>
+          Ankha
+        </p>
+        <p>
+          All that glitters is not gold.
+        </p>
+      </a>
+    </div>
+  </li>
+  <li>
+    <div>
+      <a
+        href="/5f5fb4bbbfd05c2aed82e46a"
+      >
+        <img
+          alt="Angus"
+          src="https://vignette.wikia.nocookie.net/animalcrossing/images/5/5f/Angus_NH.png/revision/latest?cb=20200802083758"
+          style="height: 150px;"
+        />
+        <p>
+          Angus
+        </p>
+        <p>
+          Even strong men cry.
+        </p>
+      </a>
+    </div>
+  </li>
+  <li>
+    <div>
+      <a
+        href="/5f5fb4bbbfd05c2aed82e466"
+      >
+        <img
+          alt="Alli"
+          src="https://vignette.wikia.nocookie.net/animalcrossing/images/8/8e/Alli_NH.png/revision/latest?cb=20200802061731"
+          style="height: 150px;"
+        />
+        <p>
+          Alli
+        </p>
+        <p>
+          Think before you act.
+        </p>
+      </a>
+    </div>
+  </li>
+  <li>
+    <div>
+      <a
+        href="/5f5fb4bbbfd05c2aed82e46b"
+      >
+        <img
+          alt="Anicotti"
+          src="https://vignette.wikia.nocookie.net/animalcrossing/images/8/80/Anicotti_NH.png/revision/latest?cb=20200802164003"
+          style="height: 150px;"
+        />
+        <p>
+          Anicotti
+        </p>
+        <p>
+          The walls have ears!
+        </p>
+      </a>
+    </div>
+  </li>
+  <li>
+    <div>
+      <a
+        href="/5f5fb4bbbfd05c2aed82e467"
+      >
+        <img
+          alt="Amelia"
+          src="https://vignette.wikia.nocookie.net/animalcrossing/images/a/ab/Amelia_NH.png/revision/latest?cb=20200817171545"
+          style="height: 150px;"
+        />
+        <p>
+          Amelia
+        </p>
+        <p>
+          Pampering yourself is as important as food, water, and shelter!
+        </p>
+      </a>
+    </div>
+  </li>
+  <li>
+    <div>
+      <a
+        href="/5f5fb4bbbfd05c2aed82e46d"
+      >
+        <img
+          alt="Annalisa"
+          src="https://vignette.wikia.nocookie.net/animalcrossing/images/f/f0/Annalisa_NH.png/revision/latest?cb=20200802063308"
+          style="height: 150px;"
+        />
+        <p>
+          Annalisa
+        </p>
+        <p>
+          Home is where the heart is.
+        </p>
+      </a>
+    </div>
+  </li>
+  <li>
+    <div>
+      <a
+        href="/5f5fb4bbbfd05c2aed82e46f"
+      >
+        <img
+          alt="Antonio"
+          src="https://vignette.wikia.nocookie.net/animalcrossing/images/d/d4/Antonio_NH.png/revision/latest?cb=20200802063352"
+          style="height: 150px;"
+        />
+        <p>
+          Antonio
+        </p>
+        <p>
+          Always go for the burn!
+        </p>
+      </a>
+    </div>
+  </li>
+  <li>
+    <div>
+      <a
+        href="/5f5fb4bbbfd05c2aed82e46e"
+      >
+        <img
+          alt="Annalise"
+          src="https://vignette.wikia.nocookie.net/animalcrossing/images/c/c4/Annalise_NH.png/revision/latest?cb=20200802153943"
+          style="height: 150px;"
+        />
+        <p>
+          Annalise
+        </p>
+        <p>
+          Let gossip in one ear and out the other.
+        </p>
+      </a>
+    </div>
+  </li>
+  <li>
+    <div>
+      <a
+        href="/5f5fb4bbbfd05c2aed82e468"
+      >
+        <img
+          alt="Anabelle"
+          src="https://vignette.wikia.nocookie.net/animalcrossing/images/d/d8/Anabelle_NH.png/revision/latest?cb=20200802063200"
+          style="height: 150px;"
+        />
+        <p>
+          Anabelle
+        </p>
+        <p>
+          Dance like no one's watching!
+        </p>
+      </a>
+    </div>
+  </li>
+  <li>
+    <div>
+      <a
+        href="/5f5fb4bbbfd05c2aed82e470"
+      >
+        <img
+          alt="Apollo"
+          src="https://vignette.wikia.nocookie.net/animalcrossing/images/2/28/Apollo_NH.png/revision/latest?cb=20200719092927"
+          style="height: 150px;"
+        />
+        <p>
+          Apollo
+        </p>
+        <p>
+          What goes up must come down.
+        </p>
+      </a>
+    </div>
+  </li>
+  <li>
+    <div>
+      <a
+        href="/5f5fb4bbbfd05c2aed82e469"
+      >
+        <img
+          alt="Anchovy"
+          src="https://vignette.wikia.nocookie.net/animalcrossing/images/e/ea/Anchovy_NH.png/revision/latest?cb=20200802081231"
+          style="height: 150px;"
+        />
+        <p>
+          Anchovy
+        </p>
+        <p>
+          Why do today what you can put off until tomorrow?
+        </p>
+      </a>
+    </div>
+  </li>
+  <li>
+    <div>
+      <a
+        href="/5f5fb4bbbfd05c2aed82e471"
+      >
+        <img
+          alt="Apple"
+          src="https://vignette.wikia.nocookie.net/animalcrossing/images/5/57/Apple_NH.png/revision/latest?cb=20200802151508"
+          style="height: 150px;"
+        />
+        <p>
+          Apple
+        </p>
+        <p>
+          One rotten apple spoils the barrel!
+        </p>
+      </a>
+    </div>
+  </li>
+  <li>
+    <div>
+      <a
+        href="/5f5fb4bbbfd05c2aed82e472"
+      >
+        <img
+          alt="Astrid"
+          src="https://vignette.wikia.nocookie.net/animalcrossing/images/d/d5/Astrid_NH.png/revision/latest?cb=20200802154954"
+          style="height: 150px;"
+        />
+        <p>
+          Astrid
+        </p>
+        <p>
+          An apple doesn't fall far from the tree.
+        </p>
+      </a>
+    </div>
+  </li>
+  <li>
+    <div>
+      <a
+        href="/5f5fb4bbbfd05c2aed82e473"
+      >
+        <img
+          alt="Audie"
+          src="https://vignette.wikia.nocookie.net/animalcrossing/images/1/1b/Audie_NH.png/revision/latest?cb=20200829012735"
+          style="height: 150px;"
+        />
+        <p>
+          Audie
+        </p>
+        <p>
+          Be the kind of person your future self won't regret having been
+        </p>
+      </a>
+    </div>
+  </li>
+  <li>
+    <div>
+      <a
+        href="/5f5fb4bbbfd05c2aed82e474"
+      >
+        <img
+          alt="Aurora"
+          src="https://vignette.wikia.nocookie.net/animalcrossing/images/5/59/Aurora_NH.png/revision/latest?cb=20200202215217"
+          style="height: 150px;"
+        />
+        <p>
+          Aurora
+        </p>
+        <p>
+          Always keep your cool.
+        </p>
+      </a>
+    </div>
+  </li>
+  <li>
+    <div>
+      <a
+        href="/5f5fb4bbbfd05c2aed82e476"
+      >
+        <img
+          alt="Avery"
+          src="https://vignette.wikia.nocookie.net/animalcrossing/images/d/dd/Avery_NH.png/revision/latest?cb=20200608222354"
+          style="height: 150px;"
+        />
+        <p>
+          Avery
+        </p>
+        <p>
+          What goes around comes around.
+        </p>
+      </a>
+    </div>
+  </li>
+  <li>
+    <div>
+      <a
+        href="/5f5fb4bbbfd05c2aed82e475"
+      >
+        <img
+          alt="Ava"
+          src="https://vignette.wikia.nocookie.net/animalcrossing/images/c/cc/Ava_NH.png/revision/latest?cb=20200609055741"
+          style="height: 150px;"
+        />
+        <p>
+          Ava
+        </p>
+        <p>
+          Early to bed, early to rise.
+        </p>
+      </a>
+    </div>
+  </li>
+  <li>
+    <div>
+      <a
+        href="/5f5fb4bbbfd05c2aed82e47b"
+      >
+        <img
+          alt="Barold"
+          src="https://vignette.wikia.nocookie.net/animalcrossing/images/9/9d/Barold_NH.png/revision/latest?cb=20200802141140"
+          style="height: 150px;"
+        />
+        <p>
+          Barold
+        </p>
+        <p>
+          Please DO feed the bears!
+        </p>
+      </a>
+    </div>
+  </li>
+  <li>
+    <div>
+      <a
+        href="/5f5fb4bbbfd05c2aed82e47a"
+      >
+        <img
+          alt="Bangle"
+          src="https://vignette.wikia.nocookie.net/animalcrossing/images/6/68/Bangle_NH.png/revision/latest?cb=20200803120044"
+          style="height: 150px;"
+        />
+        <p>
+          Bangle
+        </p>
+        <p>
+          Don't blink or you'll miss it.
+        </p>
+      </a>
+    </div>
+  </li>
+</ul>
+`;
